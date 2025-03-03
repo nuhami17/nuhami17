@@ -21,7 +21,7 @@ Every day, I work hard to get closer to my goals. I believe that with dedication
     
     <!-- Image Section -->
  <h3>my photo</h3>
-    <img src="NDK.jpg" alt="description of NDK.jpg ">
+    <img src="NDK.jpg" alt=""my photo" widt="300">
     
     <!-- Video Section -->
     <h4>motivation</h4>
